@@ -1,0 +1,21 @@
+h2{
+	text-decoration: line-through;
+}
+ 
+h3{
+	text-decoration: underline;
+}
+#d1{
+	background-color: #ccffe6;
+}
+table{
+  width: 100%;
+  border: 1px solid black;
+  border-collapse: collapse;
+  background-color: #ccffe6;
+	}
+td {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #ccffe6;
+	}

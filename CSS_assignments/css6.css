@@ -1,0 +1,25 @@
+table, th{
+	border: 1px solid green;
+}
+#d1 {
+	border: 1px solid green;
+}
+#c1{
+	background-color:green;
+	color:white;
+	 
+}
+#c2{
+	background-color:green;
+	color:white;
+	 
+}
+#c3{
+	background-color:green;
+	color:white;
+	 
+}
+#t1 {
+	width: 100%;
+ border: 1px solid black;
+}

@@ -1,0 +1,21 @@
+#d1{
+	  border: 1px  black;
+  outline-style: dotted;
+  outline-color: #00ff00;
+  
+  
+  }
+  
+ #d2{
+ border: 1px black;
+    outline-style: solid;
+  outline-color: red;
+  
+ }
+
+ #d3{
+ border: 1px black;
+  outline-style: outset;
+  outline-color: #bbffff;
+  padding:6px;
+ }
